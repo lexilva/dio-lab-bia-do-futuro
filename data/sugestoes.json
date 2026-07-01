@@ -18,16 +18,16 @@
     {
         "nome": "70/20/10",
         "categoria": "Pessoas com recursos limitados",
-        "objetivo": "conseguir reserva mínima de emergência",
-        "objetivo monetário": 5000.00,
+        "objetivo": "conseguir reserva de emergência para 3 meses",
+        "objetivo monetário": 10000.00,
         "aporte_minimo": 150.00,
         "indicado_para": "Reserva sobrevivência e iniciantes com espaço no orçamento abaixo de R$200,00"
     },
     {
         "nome": "50/15/35",
         "categoria": "Pessoas com Recursos Médios",
-        "objetivo": "conseguir reserva mínima de emergência",
-        "objetivo monetário": 10000.00,
+        "objetivo": "conseguir reserva de emergência de pelo menos 6 meses",
+        "objetivo monetário": 30000.00,
         "aporte_minimo": 250.00,
         "indicado_para": "Reserva sobrevivência e iniciantes com espaço no orçamento abaixo de R$350,00"
     }
