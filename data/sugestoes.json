@@ -1,0 +1,34 @@
+[
+     {
+        "nome": "100/0",
+        "categoria": "Pessoas sem recursos",
+        "objetivo": "conseguir zerar dívidas e começar a poupar",
+        "objetivo monetário": 0,
+        "aporte_minimo": 0,
+        "indicado_para": "pessoas com dívidas e sem recursos para poupar"
+    },
+    {
+    "nome": "75/25",
+    "categoria": "Pessoas com recursos limitadissimos",
+    "objetivo": "conseguir reserva mínima de emergência",
+    "objetivo monetário": 1000.00,
+    "aporte_minimo": 30.00,
+    "indicado_para": "Reserva sobrevivência e iniciantes com espaço no orçamento abaixo de R$100,00"
+  },
+    {
+        "nome": "70/20/10",
+        "categoria": "Pessoas com recursos limitados",
+        "objetivo": "conseguir reserva mínima de emergência",
+        "objetivo monetário": 5000.00,
+        "aporte_minimo": 150.00,
+        "indicado_para": "Reserva sobrevivência e iniciantes com espaço no orçamento abaixo de R$200,00"
+    },
+    {
+        "nome": "50/15/35",
+        "categoria": "Pessoas com Recursos Médios",
+        "objetivo": "conseguir reserva mínima de emergência",
+        "objetivo monetário": 10000.00,
+        "aporte_minimo": 250.00,
+        "indicado_para": "Reserva sobrevivência e iniciantes com espaço no orçamento abaixo de R$350,00"
+    }
+]
